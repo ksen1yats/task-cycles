@@ -16,7 +16,6 @@ export function iterationCount(a) {
     }
     return count;
 }
-
 export function symbolsReplace(message) {
     let result = '';
     let i = 0;
